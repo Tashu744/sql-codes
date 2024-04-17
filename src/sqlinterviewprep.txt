@@ -1,0 +1,9 @@
+Q1 Mention some common SQL queries and their roles.
+Answer: 
+SELECT: Retrieves data from one or more tables.
+INSERT: Adds new rows of data into a table.
+UPDATE: Modifies existing data in a table.
+DELETE: Removes rows of data from a table.
+CREATE TABLE: Creates a new table in the database.
+ALTER TABLE: Modifies an existing table's structure.
+DROP TABLE: Deletes a table and its data from the database
