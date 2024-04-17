@@ -6,4 +6,9 @@ UPDATE: Modifies existing data in a table.
 DELETE: Removes rows of data from a table.
 CREATE TABLE: Creates a new table in the database.
 ALTER TABLE: Modifies an existing table's structure.
-DROP TABLE: Deletes a table and its data from the database
+DROP TABLE: Deletes a table and its data from the database.
+
+Q2 Where you can or should use a foreign key? Give an example.
+Answer:
+A foreign key is used to link two tables together. It is a field in one table that refers to the primary key in another table.
+Example: In a database with tables for "Orders" and "Customers," the "Orders" table might have a foreign key "CustomerID" that links to the "Customers" table's primary key.
